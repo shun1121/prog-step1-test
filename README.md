@@ -85,4 +85,11 @@ const data = require("./kana.json")
 - 各文字の座標は最大で、幅:12、 高さ:10 です。
 - コマンドライン引数はひらがなのみとします。
 
-## 結果
+## 実行結果
+
+```
+node main こんにちは
+```
+
+![result](https://user-images.githubusercontent.com/1633183/92488367-6af14880-f229-11ea-9e1d-682ef91df0f4.png)
+
