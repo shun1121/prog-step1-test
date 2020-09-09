@@ -98,5 +98,6 @@ node main こんにちは
 ![result](https://user-images.githubusercontent.com/1633183/92488367-6af14880-f229-11ea-9e1d-682ef91df0f4.png)
 
 3文字表示(オプション)
+
 ![result2](https://user-images.githubusercontent.com/1633183/92551774-dc68df80-f299-11ea-8fa1-b7f8b1742eab.png)
 
